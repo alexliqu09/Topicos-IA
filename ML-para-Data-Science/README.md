@@ -8,18 +8,19 @@
 
 
 ## 🆕 Actualización
-- 23/04/21: README actualizado
+- 21/06/21: README actualizado
 
  TODO:
 - ✅ [Introducción a Sklearn](Notebooks/Clase1.ipynb) [(ver extensión)](Notebooks/Clase1-extension.ipynb)
 - ✅ [Introducción a Pandas](Notebooks/Clase2.ipynb)
 - ✅ [Introducción a Matplotlib para DS](Notebooks/Clase3.ipynb) [(ver extensión)](Notebooks/Clase3-extension.ipynb)
 - ✅ [Tratamiento de datos con Pandas](Notebooks/Clase4.ipynb)
-- ⬜️ Introducción a K-NN y K-Means
-- ⬜️ Regresión lineal y logística 
-- ⬜️ Árboles de decisión y bosques aleatorios
-- ⬜️ SVM
-- ⬜️ PCA
-- ⬜️ Gaussian Mixture
-- ⬜️ Métodos ensamblados
+- ✅ [Introducción a K-NN](Notebooks/Clase5.ipynb) y [K-Means](Notebooks/Clase6.ipynb)
+- ✅ [Regresión logística](Notebooks/Clase7.ipynb) 
+- ✅ [Árboles de decisión](Notebooks/Clase8.ipynb) y [bosques aleatorios](Notebooks/Clase9.ipynb)
+- ✅ [SVM](Notebooks/Clase10.ipynb) y [aplicación real con hojas de papa](Notebooks/SVM/)
+- ✅ [Métodos ensamblados](Notebooks/Clase11.ipynb)
+- ✅ [PCA](Notebooks/Clase12.ipynb)
+- ✅ [Gaussian Mixture](Notebooks/Clase13.ipynb)
+
 

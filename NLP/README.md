@@ -9,17 +9,18 @@
 
 
 ## 🆕 Actualización
-- 18/03/21: README actualizado
+- 13/08/21: README actualizado
 
  TODO:
-- ⬜️ Tokenización, stemmer, padding
-- ⬜️ Bag of Words, GloVe
-- ⬜️ Words Embeddings: Visualizaciones PCA y T-sne
-- ⬜️ RNN
-- ⬜️ LSTM
-- ⬜️ Seq2Seq e introducción a mecanismos de atención
-- ⬜️ Transformers para NLP, repaso por Hugging Face 
-- ⬜️ Speech Recognition y TTS. Diagrama MEL
-- ⬜️ BERT y variantes
+- ✅ [Tokenización](./Notebooks/1_Tokenization_examples.ipynb), [stemmer, padding](./Notebooks/0_NLP_Basics.ipynb)
+- ✅ [Bag of Words](./Notebooks/2_Bag_of_Words.ipynb), [GloVe](./Noteboooks/4_GloVe.ipynb)
+- ✅ [Words Embeddings Visualizaciones PCA y T-sne](./Notebooks/3_Word_Embeddings.ipynb)
+- ✅ [RNN y aplicación a generación de nombres](./generacion-nombres-RNN)
+- ✅ [LSTM y aplicación en la predicción de precios](./Notebooks/6_LSTM.ipynb)
+- ✅ [Seq2Seq](./Notebooks/7_Seq_2_Seq_LSTM.ipynb) e [introducción a mecanismos de atención](./Notebooks/8_Seq_2_Seq_Attention.ipynb)
+- ✅ [Introducción a los Transformers](./Notebooks/9_Introduccion_Transformer.ipynb), [Seq2Seq con Transformers](./Notebooks/10_Seq2Seq_con_Transformers.ipynb) y [repaso por Hugging Face](./Notebooks/12.0_HuggingFace.ipynb)
+- ✅ [Speech Recognition y diagrama MEL](./Notebooks/11_speech_command_recognition_with_torchaudio.ipynb)
+- ✅ [Bert y variantes](./Notebooks/13_BERT_variantes.ipynb)
+
 
 

@@ -23,12 +23,12 @@
 
 
 ## 🆕 Actualización
-- 18/03/21: README actualizado
+- 15/08/21: README actualizado
 
  TODO:
 - ✅ Tópico [***Python para ML y DL***](Python-para-ML-y-DL) finalizado
-- ⬜️ Tópico [***ML para Data Science***](ML-para-Data-Science) finalizado
-- ⬜️ Tópico [***NLP***](NLP) finalizado
+- ✅ Tópico [***ML para Data Science***](ML-para-Data-Science) finalizado
+- ✅ Tópico [***NLP***](NLP) finalizado
 - ⬜️ Tópico [***Despliegue de modelos***](Despliegue-de-modelos) finalizado
 
 ## ℹ️ Descripción
@@ -38,8 +38,6 @@ En este repositorio encontrarás diversidad de tópicos de IA, dictados por miem
 <br/>
 <p align="center">
   <code><img width="90" height="100" src="src/angelica.png" alt="Angélica"></code>
-  <code><img width="90" height="100" src="src/nelson.png" alt="Nelson"></code>
-  <code><img width="90" height="100" src="src/diego.png" alt="Diego"></code>
   <code><img width="90" height="100"  src="src/julissa.png" alt="Julissa"></code>
   <code><img width="90" height="100" src="src/jose.png" alt="José"></code>
   <code><img width="90" height="100" src="src/alexander.png" alt="Alexander"></code>
